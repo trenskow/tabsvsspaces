@@ -59,7 +59,7 @@ What if the above example was done with tabs, and I had my text editor setup for
 	    are perfectly aligned.  */
 	 }
 
-So you see. Using only tabs fucks this up, and - beside the fact that you actually took care to align the lines for me - I cannot read it as easily.
+So you see? Using only tabs fucks this up, and - beside the fact that you actually took care to align the lines for me - I cannot read it as easily.
 
 The above looks like this with hidden characters.
 
@@ -73,10 +73,10 @@ The above looks like this with hidden characters.
 What?!?!? Tabs and spaces on the same line - are you f&%#€!? kidding me? No, I'm not. This is so practical for every reason. Now me - the two-character-tab-stop-guy comes along, and it looks like this.
 
 	if (mycondition == true) {
-	> /*  Here I have a multiline comment
-	> ····which I would like to be aligned,
-	> ····so when I read it, the lines
-	> ····are perfectly aligned.  */
+	  /*  Here I have a multiline comment
+	      which I would like to be aligned,
+	      so when I read it, the lines
+	      are perfectly aligned.  */
 	}
 
 See? Two-space indentation - alignment still works.
