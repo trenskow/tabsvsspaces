@@ -79,7 +79,7 @@ What?!?!? Tabs and spaces on the same line - are you f&%#€!? kidding me? No, I
 	      are perfectly aligned.  */
 	}
 
-See? Two-space indentation - alignment still works.
+See? Two-character indentation - alignment still works.
 
 So let's also agree on **spaces** for **alignment**.
 
