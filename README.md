@@ -94,4 +94,4 @@ Thanks.
 
 ---
 
-Please submit issue if you'd like to kill me - or have similar issues with this document.
+Please submit an issue if you'd like to kill me - or have similar or other issues with this document.
